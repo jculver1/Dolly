@@ -1,0 +1,23 @@
+{
+  "name": "dollybackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jculver1/Dolly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jculver1/Dolly/issues"
+  },
+  "homepage": "https://github.com/jculver1/Dolly#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
